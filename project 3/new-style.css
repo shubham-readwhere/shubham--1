@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    box-sizing: border-box;
+    margin: 0px;
+}
+body{
+    font-family: inter;
+}
+.header-section{
+    width: 100%;
+    float: left;
+    height: 100vh;
+    background-color: aliceblue;
+    padding-top: 25px;
+}
+.fixed-img{
+    width: 100%;
+    float: left;
+}
+.fixed-img {
+    background-image: url(https://tpc.googlesyndication.com/simgad/7134154472378513570?sqp=4sqPyQQrQikqJwhfEAEdAAC0QiABKAEwCTgDQPCTCUgAUAFYAWBfcAJ4AcUBLbKdPg&rs=AOga4qn5GC6a9Zt32rxvOPKxWbA54F0Qiw);
+    background-position: center;
+    background-size: cover;
+    height: 585px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.sec-right{
+    width: 100%;
+    float: left;
+}
+ul {
+    list-style-type: none;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #ff0000;
+ }
+ul li a{
+text-decoration: none;
+
+color: #808080;
+}
